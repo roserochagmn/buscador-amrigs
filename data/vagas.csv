@@ -1,0 +1,409 @@
+id,especialidade,especialidade_num_edital,estado,estado_nome,entidade,cidade,instituicao,numero_total_vagas,numero_vagas_militares,numero_vagas_livres,valor_instituicao,valor_instituicao_display,nota_minima,nota_minima_display,pesos_notas_finais,programa_governo,pagina_origem_pdf
+1,Anestesiologia,1,RS,Rio Grande do Sul,AMRIGS,Caxias do Sul,Hospital Virvi Ramos,1,0,1,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 60% e Arguição 40%),Não informado,1
+2,Anestesiologia,1,RS,Rio Grande do Sul,AMRIGS,Cruz Alta,Hospital São Vicente de Paulo de Cruz Alta,2,0,2,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,1
+3,Anestesiologia,1,RS,Rio Grande do Sul,AMRIGS,Erechim,Hospital Santa Terezinha de Erechim,3,0,3,300.0,"300,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,1
+4,Anestesiologia,1,RS,Rio Grande do Sul,AMRIGS,Erechim,Hospital UNIMED Erechim,1,0,1,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,1
+5,Anestesiologia,1,RS,Rio Grande do Sul,AMRIGS,Lajeado,Hospital Bruno Born,3,0,3,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 90% e Arguição 10%),PRMGFC,1
+6,Anestesiologia,1,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital de Clínicas de Passo Fundo (UFFS),1,0,1,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,1
+7,Anestesiologia,1,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital São Vicente de Paulo (UFFS),1,0,1,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,2
+8,Anestesiologia,1,RS,Rio Grande do Sul,AMRIGS,Pelotas,Universidade Católica de Pelotas,2,0,2,280.0,"280,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,2
+9,Anestesiologia,1,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Ernesto Dornelles,4,0,4,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Arguição),PRMGFC,2
+10,Anestesiologia,1,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Nossa Senhora da Conceição,4,0,4,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,2
+11,Anestesiologia,1,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital São Lucas da PUCRS,2,1,1,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,2
+12,Anestesiologia,1,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,IC/FUC - Instituto de Cardiologia do Rio Grande do Sul - Fundação Universitária de Cardiologia,3,0,3,700.0,"700,00",50.0,50.00,Primeira Etapa 90% (TO) 50% e Arguição 50%),PRMGFC,2
+13,Anestesiologia,1,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,UNISINOS - Porto Alegre,2,0,2,350.0,"350,00",55.0,55.00,Primeira Etapa 100% (TO),Não informado,2
+14,Anestesiologia,1,RS,Rio Grande do Sul,AMRIGS,Santa Maria,Universidade Federal de Santa Maria,6,1,5,150.0,"150,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,2
+15,Anestesiologia,1,RS,Rio Grande do Sul,AMRIGS,Tramandaí,Hospital de Tramandaí,4,0,4,1800.0,"1800,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,2
+16,Cirurgia Cardiovascular,2,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Nossa Senhora da Conceição,1,0,1,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,3
+17,Cirurgia Cardiovascular,2,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital São Lucas da PUCRS,1,0,1,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,3
+18,Cirurgia Cardiovascular,2,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,IC/FUC - Instituto de Cardiologia do Rio Grande do Sul - Fundação Universitária de Cardiologia,3,0,3,700.0,"700,00",50.0,50.00,Primeira Etapa 90% (TO) 50% e Arguição 50%),PRMGFC,3
+19,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Alegrete,Secretaria Municipal de Saúde de Alegrete,2,0,2,150.0,"150,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,3
+20,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Bagé,Hospital Santa Casa de Caridade de Bagé,4,0,4,80.0,"80,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,3
+21,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Bento Gonçalves,Associação Dr. Bartholomeu Tacchini - Hospital Tacchini,4,0,4,250.0,"250,00",50.0,50.00,Primeira Etapa 90% (TO) 50% e Arguição 50%),Não informado,3
+22,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Cachoeira do Sul,Hospital de Caridade e Beneficência de Cachoeira do Sul,4,0,4,150.0,"150,00",50.0,50.00,Primeira Etapa 90% (TO) 50% e Arguição 50%),Não informado,4
+23,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Canoas,Hospital Nossa Senhora das Graças,2,0,2,450.0,"450,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Arguição),Não informado,4
+24,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Carazinho,Hospital de Clínicas de Carazinho (UFFS),4,0,4,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,4
+25,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Caxias do Sul,Hospital Geral de Caxias do Sul,9,0,9,400.0,"400,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,4
+26,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Caxias do Sul,Hospital Pompéia,5,0,5,420.0,"420,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,4
+27,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Caxias do Sul,Hospital Virvi Ramos,2,0,2,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 60% e Arguição 40%),Não informado,4
+28,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Cruz Alta,Hospital São Vicente de Paulo de Cruz Alta,5,0,5,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,4
+29,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Erechim,Hospital Santa Terezinha de Erechim,4,1,3,300.0,"300,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,4
+30,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Erechim,Hospital UNIMED Erechim,1,0,1,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,4
+31,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Estrela,Sociedade Sulina Divina Providência - Estrela,2,0,2,470.0,"470,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,4
+32,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Ijuí,Associação Hospital de Caridade de Ijuí,8,0,8,250.0,"250,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,5
+33,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Lajeado,Hospital Bruno Born,3,1,2,200.0,"200,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,5
+34,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Lajeado,Universidade do Vale do Taquari - UNIVATES,4,0,4,200.0,"200,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,5
+35,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Novo Hamburgo,FEEVALE - Associação Pró-Ensino Superior em Novo Hamburgo (ASPEUR) - Novo Hamburgo,2,0,2,275.0,"275,00",50.0,50.00,Primeira Etapa 90% (TO) 90% e Arguição 10%),Não informado,5
+36,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Novo Hamburgo,Fundação de Saúde Pública de Novo Hamburgo - FSNH,2,0,2,275.0,"275,00",50.0,50.00,Primeira Etapa 90% (TO) 50% e Arguição 50%),Não informado,5
+37,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital de Clínicas de Passo Fundo (UFFS),14,0,14,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,5
+38,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital São Vicente de Paulo (UFFS),10,0,10,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,5
+39,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Pelotas,Universidade Católica de Pelotas,14,0,14,280.0,"280,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,5
+40,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Associação Hospitalar Vila Nova,4,0,4,350.0,"350,00",55.0,55.00,Primeira Etapa 100% (TO),Não informado,5
+41,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Ernesto Dornelles,15,0,15,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,5
+42,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Mãe de Deus,4,0,4,750.0,"750,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,5
+43,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Nossa Senhora da Conceição,24,0,24,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,6
+44,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital São Lucas da PUCRS,12,1,11,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,6
+45,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Sociedade Sulina Divina Providência - Porto Alegre,3,0,3,470.0,"470,00",50.0,50.00,Primeira Etapa 90% (TO) 50% e Arguição 50%),PRMGFC,6
+46,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Rio Grande,Santa Casa de Rio Grande,10,0,10,250.0,"250,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,6
+47,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Santa Cruz do SulAssociação,Pró Ensino em Santa Cruz (APESC),8,0,8,374.0,"374,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,6
+48,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Santa Maria,Universidade Federal de Santa Maria,20,2,18,150.0,"150,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,6
+49,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Santa Maria,Universidade Franciscana,6,0,6,250.0,"250,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,6
+50,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Santiago,Grupo Hospitalar Santiago,2,0,2,200.0,"200,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,6
+51,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,São Leopoldo,UNISINOS - São Leopoldo,4,0,4,350.0,"350,00",55.0,55.00,Primeira Etapa 100% (TO),Não informado,6
+52,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Sapiranga,FEEVALE - Associação Pró-Ensino Superior em Novo Hamburgo (ASPEUR) - Sapiranga,2,0,2,275.0,"275,00",50.0,50.00,Primeira Etapa 90% (TO) 90% e Arguição 10%),Não informado,6
+53,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Sapucaia do Sul,Hospital Municipal Getúlio Vargas,2,0,2,200.0,"200,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,7
+54,Clínica Médica,3,RS,Rio Grande do Sul,AMRIGS,Tenente Portela,Hospital Santo Antônio de Tenente Portela,2,0,2,350.0,"350,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,7
+55,Pediatria,4,RS,Rio Grande do Sul,AMRIGS,Bento Gonçalves,Associação Dr. Bartholomeu Tacchini - Hospital Tacchini,2,0,2,250.0,"250,00",50.0,50.00,Primeira Etapa 90% (TO) 50% e Arguição 50%),Não informado,7
+56,Pediatria,4,RS,Rio Grande do Sul,AMRIGS,Caxias do Sul,Hospital Geral de Caxias do Sul,5,0,5,400.0,"400,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,7
+57,Pediatria,4,RS,Rio Grande do Sul,AMRIGS,Erechim,Hospital Santa Terezinha de Erechim,2,0,2,300.0,"300,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,7
+58,Pediatria,4,RS,Rio Grande do Sul,AMRIGS,Ijuí,Associação Hospital de Caridade de Ijuí,2,0,2,250.0,"250,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,7
+59,Pediatria,4,RS,Rio Grande do Sul,AMRIGS,Lajeado,Universidade do Vale do Taquari - UNIVATES,2,0,2,200.0,"200,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,7
+60,Pediatria,4,RS,Rio Grande do Sul,AMRIGS,Novo Hamburgo,FEEVALE - Associação Pró-Ensino Superior em Novo Hamburgo (ASPEUR) - Novo Hamburgo,2,0,2,275.0,"275,00",50.0,50.00,Primeira Etapa 90% (TO) 90% e Arguição 10%),Não informado,7
+61,Pediatria,4,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital de Clínicas de Passo Fundo (UFFS),8,0,8,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,7
+62,Pediatria,4,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital São Vicente de Paulo (UFFS),6,0,6,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,7
+63,Pediatria,4,RS,Rio Grande do Sul,AMRIGS,Pelotas,Universidade Católica de Pelotas,9,0,9,280.0,"280,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,8
+64,Pediatria,4,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Associação Hospitalar Vila Nova,2,0,2,350.0,"350,00",55.0,55.00,Primeira Etapa 100% (TO),Não informado,8
+65,Pediatria,4,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital da Criança Conceição,10,0,10,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,8
+66,Pediatria,4,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Materno Infantil Presidente Vargas,9,0,9,315.0,"315,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,8
+67,Pediatria,4,RS,Rio Grande do Sul,AMRIGS,Santa Cruz do SulAssociação,Pró Ensino em Santa Cruz (APESC),4,0,4,374.0,"374,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,8
+68,Pediatria,4,RS,Rio Grande do Sul,AMRIGS,Santa Maria,Universidade Federal de Santa Maria,12,0,12,150.0,"150,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,8
+69,Pediatria,4,RS,Rio Grande do Sul,AMRIGS,São Leopoldo,UNISINOS - São Leopoldo,4,0,4,350.0,"350,00",55.0,55.00,Primeira Etapa 100% (TO),Não informado,8
+70,Radiologia e Diagnóstico por Imagem,5,RS,Rio Grande do Sul,AMRIGS,Canoas,Tomoclínica,4,0,4,330.0,"330,00",60.0,60.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,9
+71,Radiologia e Diagnóstico por Imagem,5,RS,Rio Grande do Sul,AMRIGS,Caxias do Sul,Hospital Geral de Caxias do Sul,3,0,3,400.0,"400,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,9
+72,Radiologia e Diagnóstico por Imagem,5,RS,Rio Grande do Sul,AMRIGS,Caxias do Sul,Hospital Pompéia,3,0,3,420.0,"420,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,9
+73,Radiologia e Diagnóstico por Imagem,5,RS,Rio Grande do Sul,AMRIGS,Ijuí,Associação Hospital de Caridade de Ijuí,2,0,2,250.0,"250,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,9
+74,Radiologia e Diagnóstico por Imagem,5,RS,Rio Grande do Sul,AMRIGS,Lajeado,Hospital Bruno Born,4,1,3,200.0,"200,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,9
+75,Radiologia e Diagnóstico por Imagem,5,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Paulo - Clínica Kozma,3,0,3,300.0,"300,00",50.0,50.00,Primeira Etapa,Não informado,9
+76,Radiologia e Diagnóstico por Imagem,5,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital de Clínicas de Passo Fundo (UFFS),2,0,2,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,9
+77,Radiologia e Diagnóstico por Imagem,5,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital São Vicente de Paulo (UFFS),4,0,4,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,9
+78,Radiologia e Diagnóstico por Imagem,5,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Mãe de Deus/LHM,10,0,10,300.0,"300,00",50.0,50.00,Primeira Etapa 50% (TO) Segunda Etapa 50% (Currículo 40% e Arguição 60%),Não informado,9
+79,Radiologia e Diagnóstico por Imagem,5,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Nossa Senhora da Conceição,2,1,1,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,10
+80,Radiologia e Diagnóstico por Imagem,5,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital São Lucas da PUCRS,2,0,2,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,10
+81,Radiologia e Diagnóstico por Imagem,5,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,PUCRS - Cursos de Especialização e Fellow,1,0,1,300.0,"300,00",50.0,50.00,Primeira Etapa 60% (TO) Segunda Etapa 40% (Currículo 50% e Arguição 50%),Não informado,10
+82,Radiologia e Diagnóstico por Imagem,5,RS,Rio Grande do Sul,AMRIGS,Santa Maria,Universidade Federal de Santa Maria,3,1,2,150.0,"150,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,10
+83,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,Campo Bom,FEEVALE - Associação Pró-Ensino Superior em Novo Hamburgo (ASPEUR) - Campo Bom,1,0,1,275.0,"275,00",50.0,50.00,Primeira Etapa 90% (TO) 90% e Arguição 10%),Não informado,10
+84,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,Canoas,Família e Comunidade - Canoas,1,0,1,250.0,"250,00",50.0,50.00,Primeira Etapa,PRMGFC,10
+85,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,Canoas,Hospital de Aeronáutica de Canoas,2,0,2,0.0,"0,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,10
+86,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,Erechim,Hospital Santa Terezinha de Erechim,2,0,2,300.0,"300,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,10
+87,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,Farroupilha,Família e Comunidade - Farroupilha,2,0,2,250.0,"250,00",50.0,50.00,Primeira Etapa,Não informado,10
+88,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,Gravataí,UNISINOS - Gravataí,2,0,2,350.0,"350,00",55.0,55.00,Primeira Etapa 100% (TO),Não informado,11
+89,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,Lajeado,Universidade do Vale do Taquari - UNIVATES,1,0,1,200.0,"200,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,11
+90,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,Nova Petrópolis,UNISINOS - Nova Petrópolis,2,0,2,350.0,"350,00",55.0,55.00,Primeira Etapa 100% (TO),Não informado,11
+91,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,Novo Hamburgo,FEEVALE - Associação Pró-Ensino Superior em Novo Hamburgo (ASPEUR) - Novo Hamburgo,1,0,1,275.0,"275,00",50.0,50.00,Primeira Etapa 90% (TO) 90% e Arguição 10%),Não informado,11
+92,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,Palmeira das Missões,Escola de Saúde Pública SES/RS - Medicina de Família e Comunidade - Palmeira das Missões,2,0,2,250.0,"250,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,11
+93,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,Pelotas,Universidade Católica de Pelotas,15,0,15,280.0,"280,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,11
+94,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,Picada Café,UNISINOS - Picada Café,1,0,1,350.0,"350,00",55.0,55.00,Primeira Etapa 100% (TO),Não informado,11
+95,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital de Pronto Socorro,15,0,15,490.0,"490,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,11
+96,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Nossa Senhora da Conceição,18,1,17,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,11
+97,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,Santa Cruz do Sul,Associação Pró Ensino em Santa Cruz (APESC),5,1,4,374.0,"374,00",50.0,50.00,Primeira Etapa 90% (TO) 50% e Arguição 50%),PRMGFC,11
+98,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,Santa Maria,Universidade Federal de Santa Maria,6,1,5,150.0,"150,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,12
+99,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,Santa Maria,Universidade Franciscana,5,0,5,250.0,"250,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,12
+100,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,São Leopoldo,UNISINOS - São Leopoldo,5,0,5,350.0,"350,00",55.0,55.00,Primeira Etapa 100% (TO),Não informado,12
+101,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,Sapucaia do Sul,Hospital Municipal Getúlio Vargas,4,0,4,200.0,"200,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,12
+102,Medicina de Família e Comunidade,6,RS,Rio Grande do Sul,AMRIGS,Sarandi,Família e Comunidade - Sarandi,1,0,1,250.0,"250,00",50.0,50.00,Primeira Etapa,Não informado,12
+103,Ortopedia e Traumatologia,7,RS,Rio Grande do Sul,AMRIGS,Canoas,Hospital Nossa Senhora das Graças,2,1,1,450.0,"450,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Arguição),Não informado,12
+104,Ortopedia e Traumatologia,7,RS,Rio Grande do Sul,AMRIGS,Caxias do Sul,Hospital Pompéia,3,0,3,420.0,"420,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,12
+105,Ortopedia e Traumatologia,7,RS,Rio Grande do Sul,AMRIGS,Erechim,Hospital Santa Terezinha de Erechim,2,0,2,300.0,"300,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,12
+106,Ortopedia e Traumatologia,7,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital de Clínicas de Passo Fundo (UFFS),4,0,4,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,12
+107,Ortopedia e Traumatologia,7,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital São Vicente de Paulo (UFFS),6,0,6,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,12
+108,Ortopedia e Traumatologia,7,RS,Rio Grande do Sul,AMRIGS,Pelotas,Santa Casa de Pelotas,3,1,2,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,13
+109,Ortopedia e Traumatologia,7,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Cristo Redentor,4,2,2,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,13
+110,Ortopedia e Traumatologia,7,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Divina Providência e Hospital Independência,4,0,4,470.0,"470,00",50.0,50.00,Primeira Etapa 90% (TO) 50% e Arguição 50%),PRMGFC,13
+111,Ortopedia e Traumatologia,7,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Ernesto Dornelles,3,0,3,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,13
+112,Ortopedia e Traumatologia,7,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital São Lucas da PUCRS,4,2,2,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,13
+113,Ortopedia e Traumatologia,7,RS,Rio Grande do Sul,AMRIGS,Santa Maria,Universidade Federal de Santa Maria,4,1,3,150.0,"150,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,13
+114,Ortopedia e Traumatologia,7,RS,Rio Grande do Sul,AMRIGS,Tenente Portela,Hospital Santo Antônio de Tenente Portela,2,0,2,350.0,"350,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,13
+115,Ortopedia e Traumatologia,7,RS,Rio Grande do Sul,AMRIGS,Tramandaí,Hospital de Tramandaí,4,0,4,1800.0,"1800,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,13
+116,Neurocirurgia,8,RS,Rio Grande do Sul,AMRIGS,Caxias do Sul,Hospital Pompéia,1,0,1,420.0,"420,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,14
+117,Neurocirurgia,8,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital de Clínicas de Passo Fundo (UFFS),1,0,1,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,14
+118,Neurocirurgia,8,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital São Vicente de Paulo (UFFS),1,0,1,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,14
+119,Neurocirurgia,8,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Cristo Redentor,3,0,3,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,14
+120,Neurocirurgia,8,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Ernesto Dornelles,1,0,1,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Arguição),PRMGFC,14
+121,Neurocirurgia,8,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital São Lucas da PUCRS,1,0,1,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,14
+122,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Caxias do Sul,Hospital Geral de Caxias do Sul,1,0,1,400.0,"400,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,14
+123,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Caxias do Sul,Hospital Pompéia,3,0,3,420.0,"420,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,14
+124,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Caxias do Sul,Hospital Virvi Ramos,1,0,1,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 60% e Arguição 40%),Não informado,15
+125,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Lajeado,Hospital Bruno Born,2,0,2,200.0,"200,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,15
+126,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital São Vicente de Paulo (UFFS),2,0,2,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,15
+127,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Pelotas,Santa Casa de Pelotas,2,0,2,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,15
+128,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Pelotas,Universidade Católica de Pelotas,3,0,3,280.0,"280,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,15
+129,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Associação Hospitalar Vila Nova,1,0,1,350.0,"350,00",55.0,55.00,Primeira Etapa 100% (TO),Não informado,15
+130,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital de Pronto Socorro,2,0,2,490.0,"490,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,15
+131,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Divina Providência e Hospital Independência,2,0,2,470.0,"470,00",50.0,50.00,Primeira Etapa 90% (TO) 50% e Arguição 50%),PRMGFC,15
+132,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Ernesto Dornelles,4,0,4,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Arguição),PRMGFC,15
+133,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Mãe de Deus,2,0,2,750.0,"750,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,16
+134,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Nossa Senhora da Conceição,7,0,7,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,16
+135,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital São Lucas da PUCRS,2,0,2,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,16
+136,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Rio Grande,Santa Casa de Rio Grande,2,0,2,250.0,"250,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,16
+137,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Santa Cruz do Sul,Associação Pró Ensino em Santa Cruz (APESC),2,0,2,374.0,"374,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,16
+138,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Santa Maria,Universidade Federal de Santa Maria,3,0,3,150.0,"150,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,16
+139,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Santa Maria,Universidade Franciscana,3,0,3,250.0,"250,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,16
+140,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Sapucaia do Sul,Hospital Municipal Getúlio Vargas,2,0,2,200.0,"200,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,16
+141,Medicina Intensiva,9,RS,Rio Grande do Sul,AMRIGS,Tramandaí,Hospital de Tramandaí,4,0,4,1800.0,"1800,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,16
+142,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Canoas,Hospital Nossa Senhora das Graças,3,0,3,450.0,"450,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Arguição),Não informado,17
+143,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Carazinho,Hospital de Clínicas de Carazinho (UFFS),2,0,2,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,17
+144,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Caxias do Sul,Hospital Geral de Caxias do Sul,5,0,5,400.0,"400,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,17
+145,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Caxias do Sul,Hospital Pompéia,3,0,3,420.0,"420,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,17
+146,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Caxias do Sul,Hospital Virvi Ramos,1,0,1,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 60% e Arguição 40%),Não informado,17
+147,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Cruz Alta,Hospital São Vicente de Paulo de Cruz Alta,2,0,2,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,17
+148,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Erechim,Hospital Santa Terezinha de Erechim,2,0,2,300.0,"300,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,17
+149,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Gravataí,UNISINOS - Gravataí,2,0,2,350.0,"350,00",55.0,55.00,Primeira Etapa 100% (TO),Não informado,17
+150,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Ijuí,Associação Hospital de Caridade de Ijuí,4,0,4,250.0,"250,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,17
+151,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital de Clínicas de Passo Fundo (UFFS),8,0,8,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,17
+152,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital São Vicente de Paulo (UFFS),5,0,5,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,18
+153,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Pelotas,Universidade Católica de Pelotas,7,1,6,280.0,"280,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,18
+154,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Associação Hospitalar Vila Nova,4,0,4,350.0,"350,00",55.0,55.00,Primeira Etapa 100% (TO),Não informado,18
+155,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital de Pronto Socorro,3,0,3,490.0,"490,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,18
+156,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Ernesto Dornelles,7,0,7,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,18
+157,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Nossa Senhora da Conceição,16,0,16,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,18
+158,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital São Lucas da PUCRS,5,0,5,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,18
+159,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Rio Grande,Santa Casa de Rio Grande,5,0,5,250.0,"250,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,18
+160,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Santa Cruz do Sul,Associação Pró Ensino em Santa Cruz (APESC),3,0,3,374.0,"374,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,18
+161,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Santa Maria,Universidade Federal de Santa Maria,6,1,5,150.0,"150,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,18
+162,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Santiago,Grupo Hospitalar Santiago,2,0,2,200.0,"200,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,19
+163,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Sapucaia do Sul,Hospital Municipal Getúlio Vargas,2,0,2,200.0,"200,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,19
+164,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Tenente Portela,Hospital Santo Antônio de Tenente Portela,2,0,2,350.0,"350,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,19
+165,Cirurgia Geral,10,RS,Rio Grande do Sul,AMRIGS,Tramandaí,Hospital de Tramandaí,3,0,3,1800.0,"1800,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,19
+166,Ginecologia e Obstetrícia,11,RS,Rio Grande do Sul,AMRIGS,Caxias do Sul,Hospital Geral de Caxias do Sul,4,0,4,400.0,"400,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,19
+167,Ginecologia e Obstetrícia,11,RS,Rio Grande do Sul,AMRIGS,Erechim,Hospital Santa Terezinha de Erechim,2,0,2,300.0,"300,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,19
+168,Ginecologia e Obstetrícia,11,RS,Rio Grande do Sul,AMRIGS,Gravataí,UNISINOS - Gravataí,3,0,3,350.0,"350,00",55.0,55.00,Primeira Etapa 100% (TO),Não informado,19
+169,Ginecologia e Obstetrícia,11,RS,Rio Grande do Sul,AMRIGS,Ijuí,Associação Hospital de Caridade de Ijuí,3,0,3,250.0,"250,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,19
+170,Ginecologia e Obstetrícia,11,RS,Rio Grande do Sul,AMRIGS,Lajeado,Universidade do Vale do Taquari - UNIVATES,2,0,2,200.0,"200,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,19
+171,Ginecologia e Obstetrícia,11,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital de Clínicas de Passo Fundo (UFFS),5,0,5,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,19
+172,Ginecologia e Obstetrícia,11,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital São Vicente de Paulo (UFFS),4,0,4,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,19
+173,Ginecologia e Obstetrícia,11,RS,Rio Grande do Sul,AMRIGS,Pelotas,Universidade Católica de Pelotas,5,0,5,280.0,"280,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,20
+174,Ginecologia e Obstetrícia,11,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Ernesto Dornelles,3,0,3,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Arguição 50% e Currículo 50%),PRMGFC,20
+175,Ginecologia e Obstetrícia,11,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Fêmina,16,0,16,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,20
+176,Ginecologia e Obstetrícia,11,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Materno Infantil Presidente Vargas,7,0,7,315.0,"315,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,20
+177,Ginecologia e Obstetrícia,11,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital São Lucas da PUCRS,4,0,4,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,20
+178,Ginecologia e Obstetrícia,11,RS,Rio Grande do Sul,AMRIGS,Santa Cruz do SulAssociação,Pró Ensino em Santa Cruz (APESC),2,0,2,374.0,"374,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,20
+179,Ginecologia e Obstetrícia,11,RS,Rio Grande do Sul,AMRIGS,Santa Maria,Universidade Federal de Santa Maria,7,0,7,150.0,"150,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,20
+180,Ginecologia e Obstetrícia,11,RS,Rio Grande do Sul,AMRIGS,Sapucaia do Sul,Hospital Municipal Getúlio Vargas,2,0,2,200.0,"200,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,20
+181,Ginecologia e Obstetrícia,11,RS,Rio Grande do Sul,AMRIGS,Tramandaí,Hospital de Tramandaí,2,0,2,1800.0,"1800,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,20
+182,Medicina de Emergência,12,RS,Rio Grande do Sul,AMRIGS,Lajeado,Universidade do Vale do Taquari - UNIVATES,4,0,4,200.0,"200,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,21
+183,Medicina de Emergência,12,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital de Pronto Socorro,6,0,6,490.0,"490,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,21
+184,Medicina de Emergência,12,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Ernesto Dornelles,2,0,2,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,21
+185,Medicina de Emergência,12,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Nossa Senhora da Conceição,8,0,8,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,21
+186,Medicina de Emergência,12,RS,Rio Grande do Sul,AMRIGS,Santa Maria,Universidade Federal de Santa Maria,4,0,4,150.0,"150,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,21
+187,Psiquiatria,13,RS,Rio Grande do Sul,AMRIGS,Alegrete,Santa Casa de Alegrete,2,0,2,250.0,"250,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,21
+188,Psiquiatria,13,RS,Rio Grande do Sul,AMRIGS,Arroio do Meio,Hospital São José - Arroio do Meio,4,0,4,470.0,"470,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,22
+189,Psiquiatria,13,RS,Rio Grande do Sul,AMRIGS,Ijuí,Associação Hospital de Caridade de Ijuí,1,0,1,250.0,"250,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,22
+190,Psiquiatria,13,RS,Rio Grande do Sul,AMRIGS,Lajeado,Hospital Bruno Born,2,0,2,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 90% e Arguição 10%),PRMGFC,22
+191,Psiquiatria,13,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital de Clínicas de Passo Fundo (UFFS),3,0,3,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,22
+192,Psiquiatria,13,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Associação Hospitalar Vila Nova,2,0,2,350.0,"350,00",55.0,55.00,Primeira Etapa 100% (TO),Não informado,22
+193,Psiquiatria,13,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Psiquiátrico São Pedro,10,0,10,250.0,"250,00",70.0,70.00,Primeira Etapa,PRMGFC,22
+194,Psiquiatria,13,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Fundação Mário Martins,1,0,1,700.0,"700,00",60.0,60.00,Primeira Etapa 100% (TO),PRMGFC,22
+195,Psiquiatria,13,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Nossa Senhora da Conceição,4,0,4,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,22
+196,Psiquiatria,13,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital São Lucas da PUCRS,2,0,2,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,22
+197,Psiquiatria,13,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,PUCRS - Cursos de Especialização e Fellow,6,0,6,300.0,"300,00",50.0,50.00,Primeira Etapa 60% (TO) Segunda Etapa 40% (Currículo 50% e Arguição 50%),Não informado,22
+198,Psiquiatria,13,RS,Rio Grande do Sul,AMRIGS,Rio Grande,Santa Casa de Rio Grande,2,0,2,250.0,"250,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,23
+199,Psiquiatria,13,RS,Rio Grande do Sul,AMRIGS,Santa Maria,Universidade Federal de Santa Maria,4,1,3,150.0,"150,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,23
+200,Psiquiatria,13,RS,Rio Grande do Sul,AMRIGS,Santa Maria,Universidade Franciscana,4,0,4,250.0,"250,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,23
+201,Psiquiatria,13,RS,Rio Grande do Sul,AMRIGS,São Lourenço do Sul,Secretaria Municipal de Saúde de São Lourenço do Sul,5,0,5,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,23
+202,Psiquiatria,13,RS,Rio Grande do Sul,AMRIGS,Sapucaia do Sul,Hospital Municipal Getúlio Vargas,2,0,2,200.0,"200,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,23
+203,Otorrinolaringologia,14,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital São Vicente de Paulo (UFFS),2,0,2,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,23
+204,Otorrinolaringologia,14,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Nossa Senhora da Conceição,2,0,2,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,23
+205,Otorrinolaringologia,14,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital São Lucas da PUCRS,2,0,2,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,23
+206,Otorrinolaringologia,14,RS,Rio Grande do Sul,AMRIGS,Santa Maria,Universidade Federal de Santa Maria,1,0,1,150.0,"150,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,24
+207,Dermatologia,15,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital São Vicente de Paulo (UFFS),2,0,2,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,24
+208,Dermatologia,15,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Nossa Senhora da Conceição,2,0,2,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,24
+209,Dermatologia,15,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital São Lucas da PUCRS,2,0,2,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,24
+210,Dermatologia,15,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,PUCRS - Cursos de Especialização e Fellow,1,0,1,300.0,"300,00",50.0,50.00,Primeira Etapa 60% (TO) Segunda Etapa 40% (Currículo 50% e Arguição 50%),Não informado,24
+211,Dermatologia,15,RS,Rio Grande do Sul,AMRIGS,Santa Maria,Universidade Federal de Santa Maria,2,0,2,150.0,"150,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,24
+212,Infectologia,16,RS,Rio Grande do Sul,AMRIGS,Caxias do Sul,Hospital Geral de Caxias do Sul,1,0,1,400.0,"400,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,25
+213,Infectologia,16,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Nossa Senhora da Conceição,3,1,2,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,25
+214,Infectologia,16,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital São Lucas da PUCRS,2,0,2,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,25
+215,Infectologia,16,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,PUCRS - Cursos de Especialização e Fellow,2,0,2,300.0,"300,00",50.0,50.00,Primeira Etapa 60% (TO) Segunda Etapa 40% (Currículo 50% e Arguição 50%),Não informado,25
+216,Infectologia,16,RS,Rio Grande do Sul,AMRIGS,Santa Maria,Universidade Federal de Santa Maria,3,0,3,150.0,"150,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,25
+217,Medicina Esportiva,17,RS,Rio Grande do Sul,AMRIGS,Caxias do Sul,Hospital Geral de Caxias do Sul,2,0,2,400.0,"400,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,25
+218,Neurologia,18,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital de Clínicas de Passo Fundo (UFFS),2,0,2,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,26
+219,Neurologia,18,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital São Vicente de Paulo (UFFS),3,0,3,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,26
+220,Neurologia,18,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Mãe de Deus,2,0,2,750.0,"750,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,26
+221,Neurologia,18,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Nossa Senhora da Conceição,3,0,3,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,26
+222,Neurologia,18,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital São Lucas da PUCRS,5,1,4,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,26
+223,Patologia,19,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Nossa Senhora da Conceição,3,0,3,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,26
+224,Oftalmologia,20,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Pinto (UFFS),3,0,3,410.0,"410,00",50.0,50.00,Primeira Etapa,PRMGFC,26
+225,Oftalmologia,20,RS,Rio Grande do Sul,AMRIGS,Passo Fundo,Hospital São Vicente de Paulo (UFFS) Hospital Banco de Olhos (Vagas de,2,0,2,410.0,"410,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,27
+226,Oftalmologia,20,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Residência),4,0,4,550.0,"550,00",70.0,70.00,-,Não informado,27
+227,Oftalmologia,20,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Nossa Senhora da Conceição,4,0,4,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,27
+228,Medicina Física e Reabilitação,21,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital Cristo Redentor,1,0,1,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,27
+229,Medicina Física e Reabilitação,21,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Hospital São Lucas da PUCRS,1,0,1,500.0,"500,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,27
+230,Medicina Física e Reabilitação,21,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,PUCRS - Cursos de Especialização e Fellow,1,0,1,300.0,"300,00",50.0,50.00,Primeira Etapa 60% (TO) Segunda Etapa 40% (Currículo 50% e Arguição 50%),Não informado,27
+231,Medicina Legal e Perícias Médicas,22,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Psiquiátrico São Pedro,3,0,3,250.0,"250,00",60.0,60.00,Primeira Etapa,PRMGFC,27
+232,Medicina do Trabalho,23,RS,Rio Grande do Sul,AMRIGS,Erechim,Hospital UNIMED Erechim,1,0,1,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,28
+233,Medicina do Trabalho,23,RS,Rio Grande do Sul,AMRIGS,Santa Maria,Universidade Franciscana,2,0,2,250.0,"250,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,28
+234,Curso de Especialização de Oftalmologia,24,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,Instituto Ivo Corrêa Meyer,2,0,2,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 90% e Arguição 10%),Não informado,28
+235,Radioterapia (4 anos),25,RS,Rio Grande do Sul,AMRIGS,Ijuí,Associação Hospital de Caridade de Ijuí,1,0,1,250.0,"250,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,28
+236,Neurologia Clínica,26,RS,Rio Grande do Sul,AMRIGS,Porto Alegre,PUCRS - Cursos de Especialização e Fellow,1,0,1,300.0,"300,00",50.0,50.00,Primeira Etapa 60% (TO) Segunda Etapa 40% (Currículo 50% e Arguição 50%),Não informado,29
+237,Pediatria,27,SC,Santa Catarina,ACM,Blumenau,Hospital Santo Antônio Blumenau,6,0,6,450.0,"450,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,29
+238,Pediatria,27,SC,Santa Catarina,ACM,Chapecó,Hospital Unimed,1,0,1,250.0,"250,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,29
+239,Pediatria,27,SC,Santa Catarina,ACM,Chapecó,Universidade Federal da Fronteira Sul,3,0,3,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,29
+240,Pediatria,27,SC,Santa Catarina,ACM,Criciúma,Universidade do Extremo Sul Catarinense (UNESC),2,0,2,250.0,"250,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,29
+241,Pediatria,27,SC,Santa Catarina,ACM,Florianópolis,Hospital Infantil Joana de Gusmão - HIJG - SES/SC (Florianópolis),12,0,12,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,29
+242,Pediatria,27,SC,Santa Catarina,ACM,Florianópolis,Universidade Federal de Santa Catarina - UFSC,4,0,4,700.0,"700,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,29
+243,Pediatria,27,SC,Santa Catarina,ACM,Itajaí,Hospital Santa Clara - Pequeno Anjo,4,0,4,250.0,"250,00",60.0,60.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,29
+244,Pediatria,27,SC,Santa Catarina,ACM,Jaraguá do Sul,(Comunidade Evangélica de Saúde),3,0,3,500.0,"500,00",50.0,50.00,Primeira Etapa,Não informado,30
+245,Pediatria,27,SC,Santa Catarina,ACM,Joinville,Hospital Infantil Dr. Jeser Amarante Faria - HJAF - SES/SC (Joinville),14,0,14,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,30
+246,Pediatria,27,SC,Santa Catarina,ACM,Lages,Hospital Infantil Seara do Bem,3,0,3,400.0,"400,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,30
+247,Pediatria,27,SC,Santa Catarina,ACM,Rio do Sul,Hospital Regional Alto Vale,3,0,3,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,30
+248,Clínica Médica,28,SC,Santa Catarina,ACM,Blumenau,Hospital Santa Catarina de Blumenau,4,0,4,400.0,"400,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,30
+249,Clínica Médica,28,SC,Santa Catarina,ACM,Blumenau,Hospital Santa Isabel Blumenau,10,0,10,650.0,"650,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,30
+250,Clínica Médica,28,SC,Santa Catarina,ACM,Blumenau,Hospital Santo Antônio Blumenau,7,0,7,450.0,"450,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,30
+251,Clínica Médica,28,SC,Santa Catarina,ACM,Caçador,Hospital Maicé,2,0,2,250.0,"250,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,30
+252,Clínica Médica,28,SC,Santa Catarina,ACM,Chapecó,Associação Hospitalar Lenoir Vargas Ferreira - Hospital Regional do Oeste,2,0,2,300.0,"300,00",50.0,50.00,Primeira Etapa 10% (Currículo),Não informado,30
+253,Clínica Médica,28,SC,Santa Catarina,ACM,Chapecó,Universidade Federal da Fronteira Sul,4,0,4,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,31
+254,Clínica Médica,28,SC,Santa Catarina,ACM,Concórdia,Hospital São Francisco,2,1,1,200.0,"200,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,31
+255,Clínica Médica,28,SC,Santa Catarina,ACM,Florianópolis,Hospital Governador Celso Ramos - HGCR - SES/SC (Florianópolis),10,0,10,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,31
+256,Clínica Médica,28,SC,Santa Catarina,ACM,Florianópolis,Universidade Federal de Santa Catarina - UFSC,8,0,8,700.0,"700,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,31
+257,Clínica Médica,28,SC,Santa Catarina,ACM,Itajaí,Hospital e Maternidade Marieta Konder Bornhausen - Itajaí,10,0,10,550.0,"550,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 10% e Arguição 90%),Não informado,31
+258,Clínica Médica,28,SC,Santa Catarina,ACM,Jaraguá do Sul,Associação Hospitalar São José,6,0,6,450.0,"450,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,31
+259,Clínica Médica,28,SC,Santa Catarina,ACM,Joaçaba,Catarina,4,0,4,350.0,"350,00",50.0,50.00,Primeira Etapa,Não informado,31
+260,Clínica Médica,28,SC,Santa Catarina,ACM,Joinville,Hospital Municipal São José,14,0,14,250.0,"250,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,31
+261,Clínica Médica,28,SC,Santa Catarina,ACM,Joinville,Hospital Regional Hans Dieter Schmidt - HRHDS - SES/SC (Joinville),16,1,15,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,31
+262,Clínica Médica,28,SC,Santa Catarina,ACM,Lages,Hospital Tereza Ramos - HTR - SES/SC (Lages),6,0,6,418.0,"418,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,31
+263,Clínica Médica,28,SC,Santa Catarina,ACM,São José,Hospital Regional Homero de Miranda Gomes - HRHMG - SES/SC (São José),16,1,15,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,31
+264,Clínica Médica,28,SC,Santa Catarina,ACM,Tubarão,Tubarão/SC,10,0,10,380.0,"380,00",50.0,50.00,Primeira Etapa,PRMGFC,32
+265,Cirurgia Cardiovascular,29,SC,Santa Catarina,ACM,Blumenau,Hospital Santa Isabel Blumenau,1,0,1,650.0,"650,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,33
+266,Cirurgia Cardiovascular,29,SC,Santa Catarina,ACM,Itajaí,Hospital e Maternidade Marieta Konder Bornhausen - Itajaí,1,0,1,550.0,"550,00",50.0,50.00,Primeira Etapa 90% (TO) 10% e Arguição 90%),Não informado,33
+267,Cirurgia Cardiovascular,29,SC,Santa Catarina,ACM,Joinville,Hospital Regional Hans Dieter Schmidt - HRHDS - SES/SC (Joinville),1,0,1,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,33
+268,Cirurgia Cardiovascular,29,SC,Santa Catarina,ACM,São José,Instituto de Cardiologia (ICSC) (SES),1,0,1,418.0,"418,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,33
+269,Cirurgia Geral,30,SC,Santa Catarina,ACM,Blumenau,Hospital Santa Catarina de Blumenau,2,0,2,400.0,"400,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,33
+270,Cirurgia Geral,30,SC,Santa Catarina,ACM,Blumenau,Hospital Santa Isabel Blumenau,4,0,4,650.0,"650,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,33
+271,Cirurgia Geral,30,SC,Santa Catarina,ACM,Blumenau,Hospital Santo Antônio Blumenau,4,0,4,450.0,"450,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,34
+272,Cirurgia Geral,30,SC,Santa Catarina,ACM,Chapecó,Universidade Federal da Fronteira Sul,4,0,4,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,34
+273,Cirurgia Geral,30,SC,Santa Catarina,ACM,Criciúma,Hospital São José Criciúma,3,0,3,450.0,"450,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,34
+274,Cirurgia Geral,30,SC,Santa Catarina,ACM,Florianópolis,Hospital Governador Celso Ramos - HGCR - SES/SC (Florianópolis),5,0,5,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,34
+275,Cirurgia Geral,30,SC,Santa Catarina,ACM,Florianópolis,Universidade Federal de Santa Catarina - UFSC,4,0,4,700.0,"700,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,34
+276,Cirurgia Geral,30,SC,Santa Catarina,ACM,Itajaí,Hospital e Maternidade Marieta Konder Bornhausen - Itajaí,4,0,4,550.0,"550,00",50.0,50.00,Primeira Etapa 90% (TO) 10% e Arguição 90%),Não informado,34
+277,Cirurgia Geral,30,SC,Santa Catarina,ACM,Jaraguá do Sul,Associação Hospitalar São José,3,0,3,450.0,"450,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,34
+278,Cirurgia Geral,30,SC,Santa Catarina,ACM,Joaçaba,Catarina,2,0,2,350.0,"350,00",50.0,50.00,Primeira Etapa,Não informado,34
+279,Cirurgia Geral,30,SC,Santa Catarina,ACM,Joinville,Hospital Municipal São José,10,0,10,250.0,"250,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,34
+280,Cirurgia Geral,30,SC,Santa Catarina,ACM,Joinville,Hospital Regional Hans Dieter Schmidt - HRHDS - SES/SC (Joinville),6,0,6,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,35
+281,Cirurgia Geral,30,SC,Santa Catarina,ACM,Lages,Hospital Tereza Ramos - HTR - SES/SC (Lages),4,0,4,418.0,"418,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,35
+282,Cirurgia Geral,30,SC,Santa Catarina,ACM,Rio do Sul,Hospital Regional Alto Vale,3,0,3,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,35
+283,Cirurgia Geral,30,SC,Santa Catarina,ACM,São José,Hospital Regional Homero de Miranda Gomes - HRHMG - SES/SC (São José),7,0,7,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,35
+284,Cirurgia Geral,30,SC,Santa Catarina,ACM,Tubarão,Tubarão/SC,3,0,3,380.0,"380,00",50.0,50.00,Primeira Etapa,PRMGFC,35
+285,Dermatologia,31,SC,Santa Catarina,ACM,Florianópolis,Universidade Federal de Santa Catarina - UFSC,3,0,3,700.0,"700,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,35
+286,Dermatologia,31,SC,Santa Catarina,ACM,Itajaí,UNIVALI - Universidade do Vale do Itajaí,3,0,3,750.0,"750,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,35
+287,Dermatologia,31,SC,Santa Catarina,ACM,São Pedro de Alcântara,Hospital Santa Teresa - HST - SES/SC (São Pedro de Alcântara),3,0,3,418.0,"418,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,35
+288,Medicina Intensiva,32,SC,Santa Catarina,ACM,Blumenau,Hospital Santa Isabel Blumenau,2,0,2,650.0,"650,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,36
+289,Medicina Intensiva,32,SC,Santa Catarina,ACM,Blumenau,Hospital Santo Antônio Blumenau,1,0,1,450.0,"450,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,36
+290,Medicina Intensiva,32,SC,Santa Catarina,ACM,Chapecó,Associação Hospitalar Lenoir Vargas Ferreira - Hospital Regional do Oeste,3,0,3,300.0,"300,00",50.0,50.00,Primeira Etapa 10% (Currículo),Não informado,36
+291,Medicina Intensiva,32,SC,Santa Catarina,ACM,Florianópolis,Centro de Pesquisas Oncológica de Santa Catarina - CEPON - SES/SC (Florianópolis),2,0,2,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,36
+292,Medicina Intensiva,32,SC,Santa Catarina,ACM,Florianópolis,Hospital Governador Celso Ramos - HGCR - SES/SC (Florianópolis),2,0,2,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,36
+293,Medicina Intensiva,32,SC,Santa Catarina,ACM,Florianópolis,Universidade Federal de Santa Catarina - UFSC,4,0,4,700.0,"700,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,36
+294,Medicina Intensiva,32,SC,Santa Catarina,ACM,Itajaí,Hospital e Maternidade Marieta Konder Bornhausen - Itajaí,2,0,2,550.0,"550,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 10% e Arguição 90%),Não informado,36
+295,Medicina Intensiva,32,SC,Santa Catarina,ACM,Joinville,Hospital Municipal São José,3,0,3,250.0,"250,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,36
+296,Medicina Intensiva,32,SC,Santa Catarina,ACM,Joinville,Hospital Regional Hans Dieter Schmidt - HRHDS - SES/SC (Joinville),4,0,4,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,37
+297,Medicina Intensiva,32,SC,Santa Catarina,ACM,Joinville,UNIMED de Joinville - Centro Hospitalar Unimed,2,0,2,250.0,"250,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,37
+298,Medicina Intensiva,32,SC,Santa Catarina,ACM,Lages,Nossa Senhora do Prazeres (Sociedade Mãe da Divina Providência),1,0,1,400.0,"400,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,37
+299,Medicina Intensiva,32,SC,Santa Catarina,ACM,Tubarão,Tubarão/SC,2,0,2,380.0,"380,00",50.0,50.00,Primeira Etapa,PRMGFC,37
+300,Radiologia e Diagnóstico por Imagem,33,SC,Santa Catarina,ACM,Blumenau,Hospital Santa Catarina de Blumenau,2,0,2,400.0,"400,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,37
+301,Radiologia e Diagnóstico por Imagem,33,SC,Santa Catarina,ACM,Blumenau,Hospital Santa Isabel Blumenau,4,1,3,650.0,"650,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,37
+302,Radiologia e Diagnóstico por Imagem,33,SC,Santa Catarina,ACM,Blumenau,Hospital Santo Antônio Blumenau,2,0,2,450.0,"450,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,37
+303,Radiologia e Diagnóstico por Imagem,33,SC,Santa Catarina,ACM,Caçador,DIGIMAX - Hospital Universitário Santa Terezinha,5,0,5,380.0,"380,00",50.0,50.00,Primeira Etapa 10% (Currículo),Não informado,37
+304,Radiologia e Diagnóstico por Imagem,33,SC,Santa Catarina,ACM,Florianópolis,Universidade Federal de Santa Catarina - UFSC,4,0,4,700.0,"700,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,38
+305,Radiologia e Diagnóstico por Imagem,33,SC,Santa Catarina,ACM,Joaçaba,Catarina,2,0,2,350.0,"350,00",50.0,50.00,Primeira Etapa,Não informado,38
+306,Radiologia e Diagnóstico por Imagem,33,SC,Santa Catarina,ACM,Joinville,CMDI - Centro Médico Diagnóstico por Imagem,2,0,2,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,38
+307,Radiologia e Diagnóstico por Imagem,33,SC,Santa Catarina,ACM,Tubarão,Tubarão/SC,2,0,2,380.0,"380,00",50.0,50.00,Primeira Etapa,PRMGFC,38
+308,Neurologia,34,SC,Santa Catarina,ACM,Blumenau,Hospital Santa Catarina de Blumenau,1,0,1,400.0,"400,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,38
+309,Neurologia,34,SC,Santa Catarina,ACM,Blumenau,Hospital Santa Isabel Blumenau,3,0,3,650.0,"650,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,38
+310,Neurologia,34,SC,Santa Catarina,ACM,Florianópolis,Hospital Governador Celso Ramos - HGCR - SES/SC (Florianópolis),3,0,3,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,38
+311,Neurologia,34,SC,Santa Catarina,ACM,Florianópolis,Universidade Federal de Santa Catarina - UFSC,3,0,3,700.0,"700,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,38
+312,Neurologia,34,SC,Santa Catarina,ACM,Joinville,Hospital Municipal São José,4,1,3,250.0,"250,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,38
+313,Anestesiologia,35,SC,Santa Catarina,ACM,Chapecó,Universidade Federal da Fronteira Sul,3,1,2,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,39
+314,Anestesiologia,35,SC,Santa Catarina,ACM,Criciúma,Hospital São José Criciúma,4,0,4,450.0,"450,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,39
+315,Anestesiologia,35,SC,Santa Catarina,ACM,Florianópolis,Centro de Pesquisas Oncológica de Santa Catarina - CEPON - SES/SC (Florianópolis),6,0,6,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,39
+316,Anestesiologia,35,SC,Santa Catarina,ACM,Florianópolis,Hospital Governador Celso Ramos - HGCR - SES/SC (Florianópolis),9,0,9,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,39
+317,Anestesiologia,35,SC,Santa Catarina,ACM,Florianópolis,Universidade Federal de Santa Catarina - UFSC,3,0,3,700.0,"700,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,39
+318,Anestesiologia,35,SC,Santa Catarina,ACM,Itajaí,Hospital e Maternidade Marieta Konder Bornhausen - Itajaí,7,0,7,550.0,"550,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 10% e Arguição 90%),Não informado,39
+319,Anestesiologia,35,SC,Santa Catarina,ACM,Joaçaba,Catarina,2,0,2,350.0,"350,00",50.0,50.00,Primeira Etapa,Não informado,39
+320,Anestesiologia,35,SC,Santa Catarina,ACM,Joinville,Hospital Municipal São José,12,0,12,250.0,"250,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,39
+321,Anestesiologia,35,SC,Santa Catarina,ACM,Joinville,Hospital Regional Hans Dieter Schmidt - HRHDS - SES/SC (Joinville),6,0,6,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,39
+322,Anestesiologia,35,SC,Santa Catarina,ACM,Lages,Nossa Senhora do Prazeres (Sociedade Mãe da Divina Providência),1,0,1,400.0,"400,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,40
+323,Anestesiologia,35,SC,Santa Catarina,ACM,Rio do Sul,Hospital Regional Alto Vale,4,0,4,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,40
+324,Anestesiologia,35,SC,Santa Catarina,ACM,São José,Hospital Regional Homero de Miranda Gomes - HRHMG - SES/SC (São José),6,0,6,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,40
+325,Anestesiologia,35,SC,Santa Catarina,ACM,Tubarão,Tubarão/SC,3,0,3,380.0,"380,00",50.0,50.00,Primeira Etapa,PRMGFC,40
+326,Acupuntura,36,SC,Santa Catarina,ACM,Florianópolis,Universidade Federal de Santa Catarina - UFSC,2,0,2,700.0,"700,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,40
+327,Patologia,37,SC,Santa Catarina,ACM,Florianópolis,Centro de Pesquisas Oncológica de Santa Catarina - CEPON - SES/SC (Florianópolis),1,0,1,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,40
+328,Patologia,37,SC,Santa Catarina,ACM,Florianópolis,Universidade Federal de Santa Catarina - UFSC,2,1,1,700.0,"700,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,40
+329,Patologia,37,SC,Santa Catarina,ACM,Joinville,Hospital Municipal São José,2,0,2,250.0,"250,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,41
+330,Ginecologia e Obstetrícia,38,SC,Santa Catarina,ACM,Blumenau,Hospital Santo Antônio Blumenau,6,0,6,450.0,"450,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,41
+331,Ginecologia e Obstetrícia,38,SC,Santa Catarina,ACM,Chapecó,Associação Hospitalar Lenoir Vargas Ferreira - Hospital Regional do Oeste,1,0,1,300.0,"300,00",50.0,50.00,Primeira Etapa 10% (Currículo),Não informado,41
+332,Ginecologia e Obstetrícia,38,SC,Santa Catarina,ACM,Chapecó,Universidade Federal da Fronteira Sul,2,0,2,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,41
+333,Ginecologia e Obstetrícia,38,SC,Santa Catarina,ACM,Criciúma,Universidade do Extremo Sul Catarinense (UNESC),2,0,2,250.0,"250,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,41
+334,Ginecologia e Obstetrícia,38,SC,Santa Catarina,ACM,Florianópolis,Maternidade Carmela Dutra - MCD - SES/SC (Florianópolis),8,0,8,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,41
+335,Ginecologia e Obstetrícia,38,SC,Santa Catarina,ACM,Florianópolis,Universidade Federal de Santa Catarina - UFSC,5,0,5,700.0,"700,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,41
+336,Ginecologia e Obstetrícia,38,SC,Santa Catarina,ACM,Itajaí,Hospital e Maternidade Marieta Konder Bornhausen - Itajaí,4,0,4,550.0,"550,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 10% e Arguição 90%),Não informado,41
+337,Ginecologia e Obstetrícia,38,SC,Santa Catarina,ACM,Jaraguá do Sul,(Comunidade Evangélica de Saúde),4,0,4,500.0,"500,00",50.0,50.00,Primeira Etapa,Não informado,41
+338,Ginecologia e Obstetrícia,38,SC,Santa Catarina,ACM,Joaçaba,Catarina,2,0,2,350.0,"350,00",50.0,50.00,Primeira Etapa,Não informado,42
+339,Ginecologia e Obstetrícia,38,SC,Santa Catarina,ACM,Joinville,Maternidade Darcy Vargas - MDV - SES/SC (Joinville),8,0,8,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,42
+340,Ginecologia e Obstetrícia,38,SC,Santa Catarina,ACM,Rio do Sul,Hospital Regional Alto Vale,3,0,3,300.0,"300,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,42
+341,Ginecologia e Obstetrícia,38,SC,Santa Catarina,ACM,São José,Hospital Regional Homero de Miranda Gomes - HRHMG - SES/SC (São José),7,0,7,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,42
+342,Psiquiatria,39,SC,Santa Catarina,ACM,Blumenau,Hospital Santa Catarina de Blumenau,1,0,1,400.0,"400,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,42
+343,Psiquiatria,39,SC,Santa Catarina,ACM,Florianópolis,Secretaria Municipal de Saúde Florianópolis,4,0,4,450.0,"450,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,42
+344,Psiquiatria,39,SC,Santa Catarina,ACM,Florianópolis,Universidade Federal de Santa Catarina - UFSC,2,0,2,700.0,"700,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,42
+345,Psiquiatria,39,SC,Santa Catarina,ACM,Joinville,Hospital Regional Hans Dieter Schmidt - HRHDS - SES/SC (Joinville),4,0,4,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,42
+346,Psiquiatria,39,SC,Santa Catarina,ACM,Laguna,Hospital de Laguna,1,0,1,350.0,"350,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,42
+347,Psiquiatria,39,SC,Santa Catarina,ACM,São José,Instituto de Psiquiatria - IPQ - SES/SC (São José),6,0,6,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,42
+348,Radioterapia,40,SC,Santa Catarina,ACM,Florianópolis,Centro de Pesquisas Oncológica de Santa Catarina - CEPON - SES/SC (Florianópolis),1,0,1,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,43
+349,Medicina de Emergência,41,SC,Santa Catarina,ACM,Florianópolis,Hospital Governador Celso Ramos - HGCR - SES/SC (Florianópolis),4,0,4,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,43
+350,Medicina de Emergência,41,SC,Santa Catarina,ACM,Joinville,Hospital Regional Hans Dieter Schmidt - HRHDS - SES/SC (Joinville),4,0,4,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,43
+351,Medicina de Emergência,41,SC,Santa Catarina,ACM,São José,Hospital Regional Homero de Miranda Gomes - HRHMG - SES/SC (São José),6,0,6,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,43
+352,Medicina de Emergência,41,SC,Santa Catarina,ACM,Tubarão,Tubarão/SC,2,0,2,380.0,"380,00",50.0,50.00,Primeira Etapa,PRMGFC,43
+353,Otorrinolaringologia,42,SC,Santa Catarina,ACM,Florianópolis,Hospital Governador Celso Ramos - HGCR - SES/SC (Florianópolis),2,0,2,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,43
+354,Ortopedia e Traumatologia,43,SC,Santa Catarina,ACM,Blumenau,Hospital Santo Antônio Blumenau,3,0,3,450.0,"450,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,44
+355,Ortopedia e Traumatologia,43,SC,Santa Catarina,ACM,Chapecó,Universidade Federal da Fronteira Sul,3,0,3,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,44
+356,Ortopedia e Traumatologia,43,SC,Santa Catarina,ACM,Criciúma,Hospital São José Criciúma,3,0,3,450.0,"450,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,44
+357,Ortopedia e Traumatologia,43,SC,Santa Catarina,ACM,Florianópolis,Hospital Governador Celso Ramos - HGCR - SES/SC (Florianópolis),4,1,3,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,44
+358,Ortopedia e Traumatologia,43,SC,Santa Catarina,ACM,Itajaí,Hospital e Maternidade Marieta Konder Bornhausen - Itajaí,5,0,5,550.0,"550,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 10% e Arguição 90%),Não informado,44
+359,Ortopedia e Traumatologia,43,SC,Santa Catarina,ACM,Joaçaba,Catarina,1,0,1,350.0,"350,00",50.0,50.00,Primeira Etapa,Não informado,44
+360,Ortopedia e Traumatologia,43,SC,Santa Catarina,ACM,Joinville,Hospital Municipal São José,6,0,6,250.0,"250,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,44
+361,Ortopedia e Traumatologia,43,SC,Santa Catarina,ACM,Lages,Nossa Senhora do Prazeres (Sociedade Mãe da Divina Providência),2,0,2,400.0,"400,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,44
+362,Ortopedia e Traumatologia,43,SC,Santa Catarina,ACM,São José,Hospital Regional Homero de Miranda Gomes - HRHMG - SES/SC (São José),6,0,6,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,44
+363,Oftalmologia,44,SC,Santa Catarina,ACM,Blumenau,Hospital de Olhos de Blumenau,1,0,1,450.0,"450,00",65.0,65.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),PRMGFC,45
+364,Oftalmologia,44,SC,Santa Catarina,ACM,Florianópolis,Hospital Governador Celso Ramos - HGCR - SES/SC (Florianópolis),3,0,3,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,45
+365,Oftalmologia,44,SC,Santa Catarina,ACM,São José,Hospital Regional Homero de Miranda Gomes - HRHMG - SES/SC (São José),5,0,5,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,45
+366,Neurocirurgia,45,SC,Santa Catarina,ACM,Blumenau,Hospital Santa Isabel Blumenau,2,0,2,650.0,"650,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo 50% e Arguição 50%),Não informado,45
+367,Neurocirurgia,45,SC,Santa Catarina,ACM,Florianópolis,Hospital Governador Celso Ramos - HGCR - SES/SC (Florianópolis),1,0,1,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,45
+368,Neurocirurgia,45,SC,Santa Catarina,ACM,Joaçaba,Catarina,1,0,1,350.0,"350,00",50.0,50.00,Primeira Etapa,Não informado,45
+369,Infectologia,46,SC,Santa Catarina,ACM,Florianópolis,Hospital Nereu Ramos - HNR - SES/SC (Florianópolis),2,0,2,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,46
+370,Medicina de Família e Comunidade,47,SC,Santa Catarina,ACM,Blumenau,Blumenau,5,1,4,200.0,"200,00",50.0,50.00,Primeira Etapa,Não informado,46
+371,Medicina de Família e Comunidade,47,SC,Santa Catarina,ACM,Chapecó,Hospital Unimed,2,0,2,250.0,"250,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,46
+372,Medicina de Família e Comunidade,47,SC,Santa Catarina,ACM,Criciúma,Universidade do Extremo Sul Catarinense (UNESC),2,0,2,250.0,"250,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,46
+373,Medicina de Família e Comunidade,47,SC,Santa Catarina,ACM,Florianópolis,Secretaria Municipal de Saúde Florianópolis,30,1,29,300.0,"300,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,46
+374,Medicina de Família e Comunidade,47,SC,Santa Catarina,ACM,Jaraguá do Sul,Municipal de Saúde,7,0,7,350.0,"350,00",50.0,50.00,Primeira Etapa,Não informado,46
+375,Medicina de Família e Comunidade,47,SC,Santa Catarina,ACM,Joinville,Secretária Municipal de Saúde de Joinville,8,1,7,100.0,"100,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,46
+376,Medicina de Família e Comunidade,47,SC,Santa Catarina,ACM,Multicêntrica,Escola de Saúde Pública de Santa Catarina - ESPSC - SES/SC (Multicêntrico),45,0,45,418.0,"418,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,46
+377,Medicina de Família e Comunidade,47,SC,Santa Catarina,ACM,Tubarão,Tubarão/SC,2,0,2,380.0,"380,00",50.0,50.00,Primeira Etapa,PRMGFC,46
+378,Clínica Médica,48,MS,Mato Grosso do Sul,AMMS,Campo Grande,FUNSAU - Fundação em Serviços de Saúde MS,8,1,7,520.0,"520,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,47
+379,Clínica Médica,48,MS,Mato Grosso do Sul,AMMS,Campo Grande,Hospital São Julião - Associação de Auxílio e Recuperação Hansenianos,6,0,6,300.0,"300,00",50.0,50.00,Primeira Etapa 10% (Currículo),Não informado,47
+380,Oftalmologia,49,MS,Mato Grosso do Sul,AMMS,Campo Grande,Hospital São Julião - Associação de Auxílio e Recuperação Hansenianos,4,0,4,300.0,"300,00",50.0,50.00,Primeira Etapa 10% (Currículo),Não informado,47
+381,Ginecologia e Obstetrícia,50,MS,Mato Grosso do Sul,AMMS,Campo Grande,FUNSAU - Fundação em Serviços de Saúde MS,4,0,4,520.0,"520,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,47
+382,Ginecologia e Obstetrícia,50,MS,Mato Grosso do Sul,AMMS,Campo Grande,Maternidade Cândido Mariano - Associação de Amparo à Maternidade e a Infância - AAMI,4,0,4,1000.0,"1000,00",50.0,50.00,Primeira Etapa 10% (Currículo),PRMGFC,47
+383,Anestesiologia,51,MS,Mato Grosso do Sul,AMMS,Campo Grande,FUNSAU - Fundação em Serviços de Saúde MS,2,0,2,520.0,"520,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,48
+384,Cirurgia Geral,52,MS,Mato Grosso do Sul,AMMS,Campo Grande,FUNSAU - Fundação em Serviços de Saúde MS,5,1,4,520.0,"520,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,48
+385,Neurologia,53,MS,Mato Grosso do Sul,AMMS,Campo Grande,FUNSAU - Fundação em Serviços de Saúde MS,2,0,2,520.0,"520,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,48
+386,Pediatria,54,MS,Mato Grosso do Sul,AMMS,Campo Grande,FUNSAU - Fundação em Serviços de Saúde MS,10,0,10,520.0,"520,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,48
+387,Medicina Intensiva,55,MS,Mato Grosso do Sul,AMMS,Campo Grande,FUNSAU - Fundação em Serviços de Saúde MS,3,0,3,520.0,"520,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),PRMGFC,49
+388,Pediatria,56,RO,Rondônia,INSTITUIÇÃO DE RONDÔNIA,Cacoal,Hospital Regional de Cacoal,4,0,4,100.0,"100,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,49
+389,Pediatria,56,RO,Rondônia,INSTITUIÇÃO DE RONDÔNIA,Porto Velho,Hospital de Base Dr. Ary Pinheiro,8,0,8,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,49
+390,Clínica Médica,57,RO,Rondônia,INSTITUIÇÃO DE RONDÔNIA,Cacoal,Hospital Regional de Cacoal,5,0,5,100.0,"100,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,49
+391,Clínica Médica,57,RO,Rondônia,INSTITUIÇÃO DE RONDÔNIA,Porto Velho,Hospital de Base Dr. Ary Pinheiro,10,0,10,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,49
+392,Ortopedia e Traumatologia,58,RO,Rondônia,INSTITUIÇÃO DE RONDÔNIA,Porto Velho,Hospital de Base Dr. Ary Pinheiro,2,0,2,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,50
+393,Psiquiatria,59,RO,Rondônia,INSTITUIÇÃO DE RONDÔNIA,Porto Velho,Hospital de Base Dr. Ary Pinheiro,2,0,2,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,50
+394,Psiquiatria,59,RO,Rondônia,INSTITUIÇÃO DE RONDÔNIA,Porto Velho,Maternidade Municipal Mãe Esperança de Porto Velho - Rondônia,2,0,2,450.0,"450,00",50.0,50.00,Primeira Etapa 10% (Currículo),Não informado,50
+395,Ginecologia e Obstetrícia,60,RO,Rondônia,INSTITUIÇÃO DE RONDÔNIA,Porto Velho,Hospital de Base Dr. Ary Pinheiro,8,0,8,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,50
+396,Ginecologia e Obstetrícia,60,RO,Rondônia,INSTITUIÇÃO DE RONDÔNIA,Porto Velho,Maternidade Municipal Mãe Esperança de Porto Velho - Rondônia,4,0,4,450.0,"450,00",50.0,50.00,Primeira Etapa 10% (Currículo),Não informado,50
+397,Infectologia,61,RO,Rondônia,INSTITUIÇÃO DE RONDÔNIA,Porto Velho,Hospital de Base Dr. Ary Pinheiro,3,0,3,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,51
+398,Medicina Intensiva,62,RO,Rondônia,INSTITUIÇÃO DE RONDÔNIA,Porto Velho,Hospital de Base Dr. Ary Pinheiro,2,0,2,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,51
+399,Cirurgia Geral,63,RO,Rondônia,INSTITUIÇÃO DE RONDÔNIA,Porto Velho,Hospital de Base Dr. Ary Pinheiro,3,0,3,350.0,"350,00",50.0,50.00,Primeira Etapa 90% (TO) Segunda Etapa 10% (Currículo),Não informado,51
+400,Pediatria,64,RJ,Rio de Janeiro,INSTITUIÇÃO DE RIO DE JANEIRO,Volta Redonda,Hospital Santa Cecília,2,0,2,100.0,"100,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,51
+401,Cirurgia Geral,65,RJ,Rio de Janeiro,INSTITUIÇÃO DE RIO DE JANEIRO,Três Rios,Conceição,2,0,2,365.0,"365,00",60.0,60.00,Primeira Etapa,Não informado,52
+402,Cirurgia Geral,65,RJ,Rio de Janeiro,INSTITUIÇÃO DE RIO DE JANEIRO,Volta Redonda,Hospital Santa Cecília,2,0,2,100.0,"100,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,52
+403,Clínica Médica,66,RJ,Rio de Janeiro,INSTITUIÇÃO DE RIO DE JANEIRO,Volta Redonda,Hospital Santa Cecília,2,0,2,100.0,"100,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,52
+404,Medicina Intensiva,67,RJ,Rio de Janeiro,INSTITUIÇÃO DE RIO DE JANEIRO,Volta Redonda,Hospital Santa Cecília,1,0,1,100.0,"100,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,52
+405,Ortopedia e Traumatologia,68,RJ,Rio de Janeiro,INSTITUIÇÃO DE RIO DE JANEIRO,Volta Redonda,Hospital Santa Cecília,1,0,1,100.0,"100,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,52
+406,Cirurgia Cardiovascular,69,RJ,Rio de Janeiro,INSTITUIÇÃO DE RIO DE JANEIRO,Volta Redonda,Hospital Santa Cecília,1,0,1,100.0,"100,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,53
+407,Anestesiologia,70,RJ,Rio de Janeiro,INSTITUIÇÃO DE RIO DE JANEIRO,Vitória,Vila Velha Hospital,4,0,4,700.0,"700,00",50.0,50.00,Primeira Etapa 100% (TO),PRMGFC,53
+408,Anestesiologia,70,RJ,Rio de Janeiro,INSTITUIÇÃO DE RIO DE JANEIRO,Volta Redonda,Hospital Santa Cecília,2,0,2,100.0,"100,00",50.0,50.00,Primeira Etapa 100% (TO),Não informado,53
